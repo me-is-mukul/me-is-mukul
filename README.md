@@ -1,29 +1,55 @@
+# 🌟 Hey there, I'm Mukul! 👋
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/me_is_mukul_25?theme=dark&font=Karma&ext=heatmap)
+
+---
+
+## 🌐 Connect with me:
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000&color=0FF75B&center=true&vCenter=true&width=800&height=80&lines=HI...+I+am+Mukul+Aggarwal;Welcome+to+my+GitHub+profile;Loves+%3C%2F+chess%3E+and+%3C%2F+readingBooks%3E" alt="Typing SVG" /></a>
+  <a href="https://linkedin.com/in/mukul-aggarwal-377562316/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://instagram.com/rotten_paintbrush" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40"/>
+  </a>
 </p>
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000&color=F70000FF&center=true&vCenter=true&width=800&height=80&lines=Updates.." alt="Typing SVG" /></a>
-</p>
+---
 
-
+## 🧠 My Daily Routine in Python:
 ```python
 import datetime, random
+
 def daily_routine():
+    # Get current hour
     hour = datetime.datetime.now().hour
-    moods = ["energetic", "lazy", "hungry", "confused", "unstoppable", "existential"]
+    
+    # Moods of the day
+    moods = [
+        "🔥 unstoppable", 
+        "💤 sleepy", 
+        "🍕 hungry", 
+        "🤔 confused", 
+        "⚡ energetic", 
+        "🌈 inspired"
+    ]
+    
+    # Routine schedule
     schedule = {
-        (5, 8): "Snooze battle",
-        (8, 12): "Pretend to work",
-        (12, 14): "Problem solving",
-        (14, 18): "Afternoon slump",
-        (18, 21): "Dinner and chill",
-        (21, 24): "Problem solving",
-        (0, 5): "Why are you awake?"
+        (5, 8): "⏰ Snooze battles",
+        (8, 12): "💻 Pretend to work (while procrastinating)",
+        (12, 14): "🧠 Problem-solving sprints",
+        (14, 18): "😴 Afternoon slump... power nap?",
+        (18, 21): "🍽 Dinner and Netflix (or maybe chill)",
+        (21, 24): "🧑‍💻 Late-night problem-solving mode",
+        (0, 5): "🌌 Why are you still awake?!"
     }
+    
+    # Match current time to activity
     for (start, end), activity in schedule.items():
         if start <= hour < end:
-            return f"{activity}. You're feeling {random.choice(moods)}."
+            mood = random.choice(moods)
+            return f"Right now: {activity} | Current mood: {mood}"
+
+# Output today's activity and mood
 print(daily_routine())
-
-
