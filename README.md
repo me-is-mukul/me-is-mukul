@@ -1,50 +1,38 @@
 <h1 align="center">🌟 Hey there, I'm Mukul! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=435&lines=Tech+enthusiast+🔥;Loves+Chess+♟%ef%b8%8f+%26+Code+💻;Dreaming+Big+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=435&lines=I+love+to+play+chess+♟%ef%b8%8f;I+love+to+read+books+📚;I+hate+diabolical+people+👎" alt="Typing SVG" />
+
 </p>
 
----
 
-## 🧠 My Daily Routine in Python
-```python
-import datetime, random
-
-def daily_routine():
-    hour = datetime.datetime.now().hour
-    moods = ["🔥 unstoppable", "🌄 sleepy", "🍕 hungry", "🧐 confused", "⚡ energetic", "🌈 inspired"]
-    schedule = {
-        (5, 8): "⏰ Snooze battles",
-        (8, 12): "💻 Pretend to work (while procrastinating)",
-        (12, 14): "🧠 Problem-solving sprints",
-        (14, 18): "😴 Afternoon slump... power nap?",
-        (18, 21): "🍽 Dinner and Netflix (or maybe chill)",
-        (21, 24): "🧑‍💻 Late-night problem-solving mode",
-        (0, 5): "🌌 Why are you still awake?!"
-    }
-    for (start, end), activity in schedule.items():
-        if start <= hour < end:
-            mood = random.choice(moods)
-            return f"Right now: {activity} | Current mood: {mood}"
-
-print(daily_routine())
-```
-
----
-
-## 📊 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/me_is_mukul_25?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
-
-## ♟️ My Chess.com Stats
+## ♟️ Chessy Chess
 <p align="center">
   <img src="chess_stats.png" alt="Chess Stats" width="400px"/>
 </p>
 
+## Just Living
+```python
+
+import matplotlib
+def plot_graph_of_my_downfall():
+    try:
+        plt.plot(days, motivation)
+        plt.title("The Epic Downfall of My Motivation")
+    except Exception as e:
+        print(f"motivation not found")
+    try:
+        plt.show()
+    except Exception as e:
+        print(f"reason to exist not found")
+
+plot_graph_of_my_downfall()
+
+
+```
+
 ---
+
 
 ## 🌐 Connect with me
 <p align="center">
