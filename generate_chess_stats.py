@@ -6,13 +6,23 @@ USERNAME = "i_am_headache"
 def fetch_stats(username):
     url = f"https://api.chess.com/pub/player/{username}/stats"
     response = requests.get(url)
-    data = response.json()
+
+    if response.status_code != 200:
+        print(f"Failed to fetch stats for {username}. HTTP {response.status_code}")
+        return {"Bullet": 0, "Blitz": 0, "Rapid": 0}
+
+    try:
+        data = response.json()
+    except ValueError:
+        print("Response was not valid JSON.")
+        return {"Bullet": 0, "Blitz": 0, "Rapid": 0}
 
     return {
         "Bullet": data.get("chess_bullet", {}).get("last", {}).get("rating", 0),
         "Blitz": data.get("chess_blitz", {}).get("last", {}).get("rating", 0),
         "Rapid": data.get("chess_rapid", {}).get("last", {}).get("rating", 0),
     }
+
 
 def generate_chart(stats):
     labels = list(stats.keys())
