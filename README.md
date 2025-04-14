@@ -8,7 +8,7 @@
 
 ## ♟️ Chessy Chess
 <p align="center">
-  <img src="chess_stats.png" alt="Chess Stats" width="400px"/>
+  <img src="chess_stats.png?raw=true&v=1" alt="Chess Stats" width="400px"/>
 </p>
 
 ## Just Living
