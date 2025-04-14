@@ -16,6 +16,11 @@
 
 ---
 
+## ♟️ My Chess.com Stats
+
+![Chess Stats](chess_stats.png)
+
+
 ## 🧠 My Daily Routine in Python:
 ```python
 import datetime, random
