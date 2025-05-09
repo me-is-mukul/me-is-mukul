@@ -1,10 +1,5 @@
 <h1 align="center">🌟 Hey there, I'm Mukul! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=435&lines=I+love+to+play+chess+♟%ef%b8%8f;I+love+to+read+books+📚;I+hate+diabolical+people+👎" alt="Typing SVG" />
-
-</p>
-
 
 ## ♟️ Chessy Chess
 <p align="center">
