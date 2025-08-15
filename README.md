@@ -1,10 +1,6 @@
 <h1 align="center">🌟 Hey there, I'm Mukul! 👋</h1>
 
 
-## ♟️ Chessy Chess
-<p align="center">
-  <img src="chess_stats.png?raw=true" alt="Chess Stats" width="400px"/>
-</p>
 
 ## Just Living
 ```python
