@@ -1,26 +1,4 @@
-<h1 align="center">🌟 Hey there, I'm Mukul! 👋</h1>
-
-
-
-## Just Living
-```python
-
-import matplotlib
-def plot_graph_of_my_downfall():
-    try:
-        plt.plot(days, motivation)
-        plt.title("The Epic Downfall of My Motivation")
-    except Exception as e:
-        print(f"motivation not found")
-    try:
-        plt.show()
-    except Exception as e:
-        print(f"reason to exist not found")
-
-plot_graph_of_my_downfall()
-
-
-```
+<h1>Me is Mukul!</h1>
 
 ---
 
