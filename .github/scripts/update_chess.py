@@ -47,7 +47,7 @@ def build_table(data):
             )
 
     return (
-        '<table align="center">\n'
+        "<table>\n"
         "  <thead>\n"
         "    <tr>\n"
         "      <th>mode</th>\n"
