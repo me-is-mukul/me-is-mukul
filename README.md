@@ -28,39 +28,39 @@
       <code>◈ chess.com</code> &nbsp; <em>— losing with dignity.</em>
       <br/><br/>
       <!-- CHESS_STATS_START -->
-      <table>
-        <thead>
-          <tr>
-            <th>mode</th>
-            <th>rating</th>
-            <th>best</th>
-            <th>record</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>bullet</b></td>
-            <td><code>—</code></td>
-            <td><code>—</code></td>
-            <td>— · — · —</td>
-          </tr>
-          <tr>
-            <td><b>blitz</b></td>
-            <td><code>—</code></td>
-            <td><code>—</code></td>
-            <td>— · — · —</td>
-          </tr>
-          <tr>
-            <td><b>rapid</b></td>
-            <td><code>—</code></td>
-            <td><code>—</code></td>
-            <td>— · — · —</td>
-          </tr>
-        </tbody>
-      </table>
-      <!-- CHESS_STATS_END -->
+<table>
+  <thead>
+    <tr>
+      <th>mode</th>
+      <th>rating</th>
+      <th>best</th>
+      <th>record</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>bullet</b></td>
+      <td><code>963</code></td>
+      <td><code>1438</code></td>
+      <td>11W &nbsp;·&nbsp; 25L &nbsp;·&nbsp; 1D</td>
+    </tr>
+    <tr>
+      <td><b>blitz</b></td>
+      <td><code>1092</code></td>
+      <td><code>1119</code></td>
+      <td>31W &nbsp;·&nbsp; 28L &nbsp;·&nbsp; 5D</td>
+    </tr>
+    <tr>
+      <td><b>rapid</b></td>
+      <td><code>1471</code></td>
+      <td><code>1682</code></td>
+      <td>812W &nbsp;·&nbsp; 744L &nbsp;·&nbsp; 118D</td>
+    </tr>
+  </tbody>
+</table>
+<!-- CHESS_STATS_END -->
       <br/>
-      <sub>auto-updated daily · last run: —</sub>
+      <sub>auto-updated daily · last run: 2026-06-13 05:23 UTC</sub>
     </td>
   </tr>
 </table>
