@@ -40,9 +40,9 @@
   <tbody>
     <tr>
       <td><b>bullet</b></td>
-      <td><code>999</code></td>
+      <td><code>975</code></td>
       <td><code>1438</code></td>
-      <td>12W &nbsp;·&nbsp; 25L &nbsp;·&nbsp; 1D</td>
+      <td>12W &nbsp;·&nbsp; 26L &nbsp;·&nbsp; 1D</td>
     </tr>
     <tr>
       <td><b>blitz</b></td>
@@ -52,15 +52,15 @@
     </tr>
     <tr>
       <td><b>rapid</b></td>
-      <td><code>1477</code></td>
+      <td><code>1430</code></td>
       <td><code>1682</code></td>
-      <td>905W &nbsp;·&nbsp; 838L &nbsp;·&nbsp; 134D</td>
+      <td>906W &nbsp;·&nbsp; 845L &nbsp;·&nbsp; 135D</td>
     </tr>
   </tbody>
 </table>
 <!-- CHESS_STATS_END -->
       <br/>
-      <sub>auto-updated daily · last run: 2026-08-03 04:33 UTC</sub>
+      <sub>auto-updated daily · last run: 2026-08-04 04:17 UTC</sub>
     </td>
   </tr>
 </table>
