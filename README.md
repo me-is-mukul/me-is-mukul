@@ -52,15 +52,15 @@
     </tr>
     <tr>
       <td><b>rapid</b></td>
-      <td><code>1425</code></td>
+      <td><code>1441</code></td>
       <td><code>1682</code></td>
-      <td>967W &nbsp;·&nbsp; 902L &nbsp;·&nbsp; 141D</td>
+      <td>974W &nbsp;·&nbsp; 907L &nbsp;·&nbsp; 141D</td>
     </tr>
   </tbody>
 </table>
 <!-- CHESS_STATS_END -->
       <br/>
-      <sub>auto-updated daily · last run: 2026-08-23 02:24 UTC</sub>
+      <sub>auto-updated daily · last run: 2026-08-24 02:23 UTC</sub>
     </td>
   </tr>
 </table>
