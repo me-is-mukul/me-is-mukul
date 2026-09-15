@@ -60,7 +60,7 @@
 </table>
 <!-- CHESS_STATS_END -->
       <br/>
-      <sub>auto-updated daily · last run: 2026-09-14 05:57 UTC</sub>
+      <sub>auto-updated daily · last run: 2026-09-15 05:58 UTC</sub>
     </td>
   </tr>
 </table>
