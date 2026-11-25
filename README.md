@@ -46,9 +46,9 @@
     </tr>
     <tr>
       <td><b>blitz</b></td>
-      <td><code>1056</code></td>
+      <td><code>1067</code></td>
       <td><code>1119</code></td>
-      <td>34W &nbsp;·&nbsp; 34L &nbsp;·&nbsp; 5D</td>
+      <td>35W &nbsp;·&nbsp; 34L &nbsp;·&nbsp; 5D</td>
     </tr>
     <tr>
       <td><b>rapid</b></td>
@@ -60,7 +60,7 @@
 </table>
 <!-- CHESS_STATS_END -->
       <br/>
-      <sub>auto-updated daily · last run: 2026-11-24 10:45 UTC</sub>
+      <sub>auto-updated daily · last run: 2026-11-25 09:41 UTC</sub>
     </td>
   </tr>
 </table>
